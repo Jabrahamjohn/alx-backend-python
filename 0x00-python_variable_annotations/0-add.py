@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-class base:
-    a: float
-    b: float
+from typing import Callable
 
-class add(base):
-    pass
-
-print(add.__annotations__)
+def add(a: float, b: float) -> float: #this adda 2 float numbers
+    
+    return a + b
