@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-add = __import__('0-add').add
+class base:
+    a: float
+    b: float
 
-print(add(1.11,2.22) == 1.11 + 2.22)
+class add(base):
+    pass
+
 print(add.__annotations__)
