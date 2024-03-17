@@ -2,7 +2,7 @@
 """this initializes a script"""
 
 
-def vars(a:int, pi:float,i_understand_annotations:bool,school:str):
+def vars(a:int, pi:float,i_understand_annotations:bool, school:str):
     a = 1
     pi = 3.14
     i_understand_annotations = True
