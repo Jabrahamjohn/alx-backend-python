@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-from typing import Callable
-
+""" this initialiazes this file as a pyhton script that has a function that adds to float intergers"""
 def add(a: float, b: float) -> float:
     """
-    This is a function add that takes float numbers as arguments
-    args in play here are:
-        a & b (both being float)
+    sums up two float point
+    args:
+        a: (float intergers)
+        b: (float intergers)
+    returns:
+    the summ of a and b as a float
     """
     
     return a + b 
