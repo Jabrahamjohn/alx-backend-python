@@ -3,14 +3,11 @@
 
 
 def concat(str1: str, str2: str) -> str:
-    """
-    the function concat take 2 string  to be concatenate
-    
+    """the function concat take 2 string  to be concatenate
     Args:
-        str1 string value 
-        str2 string value 
-
+    str1 string value
+    str2 string value
     Returns:
-        this returns the concatenated strings
+    this returns the concatenated strings
     """
     return str1 + str2
