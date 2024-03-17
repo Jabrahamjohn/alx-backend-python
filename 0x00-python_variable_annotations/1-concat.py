@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" this is a typed annotated function concat that takes to strings and returns them"""
+""" this is a typed annotated function concat"""
 
 
 def concat(str1: str, str2: str) -> str:

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This initializes this file as a Python script that has a function that adds two floating-point numbers."""
+"""This initializes this file as a Python script"""
 
 
 def add(a: float, b: float) -> float:
