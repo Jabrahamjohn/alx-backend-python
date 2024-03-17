@@ -2,6 +2,8 @@
 """scripting"""
 
 
+from typing import List
+
 def sum_list(input_list: list[float]) -> float:
     """Calculates the sum of all elements in a list of floats.
     Args:
