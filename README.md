@@ -1,10 +1,11 @@
-#  0x00. Python - variables Annotations
-### -Python  -Back-end
-<img src="https://i.redd.it/y9y25tefi5401.png" alt="" loading="lazy" style="">
+# Back-end Develepoment With PYTHON
+### Learning and projects that use python for backend develepment
+## Mastering Python Back-end Skills
+<img src="https://www.freecodecamp.org/news/content/images/size/w1000/2024/02/image-72.png">
 
-## Resources
-### Read or Watch
-<div>
-<a href="https://docs.python.org/3/library/typing.html"> Python 3 typing documentation</a> <br>
-<a href="https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html">MyPy cheat sheet</a>
-</div>
+- A montage of hands navigating through Python code, with digital flora and fauna symbolizing the journey of growth and learning. This image sets a warm and inviting atmosphere conducive to exploration and master.
+
+##  Mentorship and continous learning.
+- The Essence of Python Back-end Development" showcases an abstract digital landscape that symbolizes the Python environment, blending intricate data structures and algorithms into a dynamic cityscape illuminated by neon greens and blues.
+
+- <img src="https://www.freecodecamp.org/news/content/images/size/w1000/2024/02/image-71.png">
