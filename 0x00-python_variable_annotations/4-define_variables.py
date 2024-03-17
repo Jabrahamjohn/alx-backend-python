@@ -2,11 +2,7 @@
 """this initializes a script"""
 
 
-def vars(a:int, pi:float,i_understand_annotations:bool, school:str):
-    a = 1
-    pi = 3.14
-    i_understand_annotations = True
-    school = "Holberton"
+def vars(a:int, pi:float,i_understand_annotations:bool, school:str) -> tuple:
     """this function vars annotates variables as specified
     args:
     a: integer value
