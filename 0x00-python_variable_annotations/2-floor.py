@@ -9,4 +9,4 @@ def floor(n: float) -> int:
     Returns:
     the floor of the float n.
     """
-    return floor(n)
+    return int(n)
