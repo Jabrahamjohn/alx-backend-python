@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """scripting for multiple coroutines"""
-
-
 import asyncio
 import random
+
 
 wait_random = __import__('0-basic_async_syntax.py').wait_random
 

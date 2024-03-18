@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """this script is for basic async learning"""
-
-
 import random
 import asyncio
+
 
 async def wait_random(max_delay: int = 10) -> float:
     """ this function is asynchronous that:
