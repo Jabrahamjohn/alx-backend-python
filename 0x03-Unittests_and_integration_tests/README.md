@@ -13,3 +13,4 @@ Integration tests will test interactions between every part of your code.
 
 - [fixtures](./fixtures.py)
 - [test clients](./test_client.py)
+- [test utils](./test_utils.py)
