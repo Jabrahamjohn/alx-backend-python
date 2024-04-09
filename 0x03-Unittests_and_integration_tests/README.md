@@ -15,3 +15,4 @@ Integration tests will test interactions between every part of your code.
 - [test clients](./test_client.py)
 - [test utils](./test_utils.py)
 - [utils](./utils.py)
+- [clients](./client.py)
