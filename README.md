@@ -17,3 +17,4 @@
 ## PROJECTS
 
 - [python variable annotation](./0x00-python_variable_annotations/)
+- [python async function](./0x01-python_async_function/)
