@@ -5,7 +5,7 @@
 
 - A montage of hands navigating through Python code, with digital flora and fauna symbolizing the journey of growth and learning. This image sets a warm and inviting atmosphere conducive to exploration and master.
 
-##  Mentorship and continous learning.
+## Mentorship and continous learning
 
 - The Essence of Python Back-end Development" showcases an abstract digital landscape that symbolizes the Python environment, blending intricate data structures and algorithms into a dynamic cityscape illuminated by neon greens and blues.
 
