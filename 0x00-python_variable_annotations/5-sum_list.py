@@ -23,3 +23,4 @@ if __name__ == '__main__':
     print(sum_list.__annotations__)
     print("sum_list(floats) returns {} which is a {}"
           .format(floats_sum, type(floats_sum)))
+    
